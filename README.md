@@ -15,7 +15,7 @@ Results-driven **Java Developer** with 3+ years of hands-on experience in design
 
 🏆 **Achievements**  
 - ⭐ 5-Star Java Developer on HackerRank | Certified in Java & SQL  
-- 💡 Solved 250+ challenges on LeetCode  
+- 💡 Solved 300+ challenges on LeetCode  
 - 🏅 Awarded **Best Work & Team Contribution** at Jio
 
 📫 **Let’s Connect**  
